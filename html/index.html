@@ -11,8 +11,8 @@
     <p>标签p定义一个段落</p><br><br /><!--不产生一个新段落的情况下进行换行-->
     <a href="https://www.baidu.com">百度</a>
     <br><br /><br><br /><br><br />
-    <img loading="lazy" src="/images/logo.png" width="224" height="224" alt="Planets" usemap="#planetmap"/>
-    
+    <img loading="lazy" src="/images/logo.png" width="224" height="224" alt="Planets" usemap="#planetmap" />
+
 
     <map name="planetmap">
         <area shape="rect" coords="0,0,82,126" href="sun.htm" alt="Sun">
@@ -54,9 +54,72 @@
 
     <br />
 
-    <div style="color:#000000;">and more...</div>
+    <div style="color:#0094ff;">and more...</div>
     这个文本包含
     <sup>上标</sup>
+
+    <table border="1">
+        <!--表格-->
+        <tr>
+            <!--table row-->
+            <td>row 1, cell 1</td>
+            <!--table d..-->
+            <td>row 1, cell 2</td>
+        </tr>
+        <tr>
+            <td>row 2, cell 1</td>
+            <td>row 2, cell 2</td>
+        </tr>
+    </table>
+
+    <ul>
+        <li>Coffee</li>
+        <li>Milk</li>
+    </ul>
+    <ol>
+        <li>Coffee</li>
+        <li>Milk</li>
+    </ol>
+
+    <dl>
+        <dt>Coffee</dt>
+        <dd>- black hot drink</dd>
+        <dt>Milk</dt>
+        <dd>- white cold drink</dd>
+    </dl>
+
+    ul是unordered lists的缩写 (无序列表)
+
+    li是list item的缩写 （列表项目）
+
+    ol是ordered lists的缩写（有序列表）
+
+    dl是definition lists的英文缩写 (自定义列表)
+
+    dt是definition term的缩写 (自定义列表组)
+
+    dd是definition description的缩写（自定义列表描述）
+
+    nl是navigation lists的英文缩写 （导航列表）
+
+    tr是table row的缩写 （表格中的一行）
+
+    th是table header cell的缩写 （表格中的表头）
+
+    td是table data cell的缩写 （表格中的一个单元格）
+
+    <h1>我的第一段 JavaScript</h1>
+    <p id="demo">
+        JavaScript 能改变 HTML 元素的样式。
+    </p>
+    <script>
+        function myFunction() {
+            x = document.getElementById("demo") // 找到元素
+            x.style.color = "#ff0000";          // 改变样式
+        }
+    </script>
+    <button type="button" onclick="myFunction()">点击这里</button>
+
 
 
 
