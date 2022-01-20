@@ -1,1 +1,1 @@
-1. [Vectors](vector)
+1. [Vectors](./vector)
