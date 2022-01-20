@@ -1,0 +1,78 @@
+1. Difference Between Rotate & Revolve 自转公转
+	- Rotation, or angular motion, is defined as the circular motion of an object around its center of mass.
+	- 自转，即角运动，定义就是物体围绕其质心旋转的圆周运动
+2. c++ 语言基本词汇
+	- Argument
+		- Alternative names: Parameter
+		- mechanism of argument passing ：参数传递机制
+		- actual objects or reference：实际对象或者引用
+		- the formal arguments of a routine ：例程的形式参数
+		- the names and types of the formal arguments ：形参的名称和类型
+		- call-by-value会有一个对象的拷贝 call-by-reference
+
+	-Assignment
+		- Alternative names: Association 结合
+		- Assignment is the mechanism by which an entity may be attached to an object.
+		- 赋值就是把一个存在的实体附加到一个对象上的机制
+		- Assignment and object creation are the two main mechanisms for manipulation of the object structure
+		- 赋值和对象创建是操纵对象结构的两种主要机制
+	
+	-Class
+		- A class is a description of a set of possible run-time objects to which the same features are applicable. 
+		- 类是对一组可能的运行时对象的描述，这些对象有相同的特性。
+	
+	-Conditional
+		- Choice, Selection structure
+		- A conditional is a control structure that allows performing different instructions depending on whether a boolean condition evaluates to true or false.
+		- 条件是一种控制结构，根据布尔条件不同执行不同操作
+
+	-Deferred class	延迟类
+		- Alternative names: Abstract class 抽象类	抽象类的核心是Virtual 延迟绑定特性的定制
+	
+	-Design by Contract
+		- Alternative names: Programming by contract, DbC, Contract programming, contract-first development
+		- Design by contract is an approach to designing software by defining precise interface specifications of components
+		- 契约式设计是一种通过定义组件的精确接口规范来设计软件的方法
+	
+	-Dynamic binding
+		- Alternative names: Late binding, Override polymorphism 覆盖多态
+	
+	-Feature
+		- Alternative names: Member
+		- An operation that programs may apply to an object is called a feature.
+		- Setter Getter
+
+	-Feature call 
+		- Alternative names: Method invocation 方法调用
+	
+	-Genericity
+		- Alternative names: Generic programming, type parameterization
+		- 泛型编程，类型参数化
+		
+	
+	-Information hiding
+		- Alternative names: Encapsulation 封装
+
+	
+	-Inheritance
+		- Generalization, Specialization, Subclassing 
+		- 泛化，具体化，子类化
+	
+	- Loop
+		-Alternative names: Iteration
+	
+	-Multiple inheritance
+		- 多继承
+		- Multiple inheritance is the unrestricted form of inheritance, whereby a class may have any number of ancestors.
+	
+	- Object
+		- Alternative names: Instance
+	
+	- Object creation
+		- Instantiation
+		- Object creation is the mechanism of creating a concrete instance of a class.
+	
+	- Polymorphism
+		- Alternative names: Subtyping polymorphism, ad-hoc polymorphism
+		- 子类型多态 临时多态性
+		
