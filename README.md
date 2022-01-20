@@ -4,6 +4,7 @@
    - contact
      - gaojiabit@gmail.com
      - wechat:hinice1886
+     - https://gaojiabit.github.io/
 
 - # lists of the content
   -  # [**math**](/math/main.md)
