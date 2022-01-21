@@ -1,5 +1,4 @@
 ﻿
-```cpp
 #include <iostream>
 
 struct ListNode {
@@ -88,4 +87,3 @@ int main()
 
     return 0;
 }
-```
