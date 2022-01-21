@@ -1,4 +1,5 @@
-﻿## [home](https://gaojiabit.github.io/)
+﻿
+[back to home](https://gaojiabit.github.io/)
 1. Difference Between Rotate & Revolve 自转公转
 	- Rotation, or angular motion, is defined as the circular motion of an object around its center of mass.
 	- 自转，即角运动，定义就是物体围绕其质心旋转的圆周运动
