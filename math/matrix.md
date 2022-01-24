@@ -17,13 +17,14 @@
 	- Matrix multiplication
 	- Submatrix  通过删除行或者列的方式获得子矩阵
 3. Linear equations
-	- inverse matrix
+	- inverse matrix 逆矩阵
+	- generalized inverse  广义逆
 4. Linear transformations
-	- Horizontal shear  
-	- Reflection through the vertical axis
-	- Squeeze mapping
-	- Scaling
-	- Rotation
+	- Shear mapping  剪裁映射  水平/垂直剪裁
+	- Reflection through the vertical axis	反射
+	- Squeeze mapping	双曲线旋转
+	- Scaling	缩放
+	- Rotation	旋转
 	- 一个2阶方阵 { TR[a,b],TR[c,d]} 相当于将一个单位正方形变为一个平行四边形
 	![](512px-Area_parallellogram_as_determinant.svg.png)
 5. Square matrix 方阵
@@ -31,9 +32,9 @@
 		- Diagonal and triangular matrix  对角阵和三角阵
 		- Identity matrix 单位阵
 		- Symmetric or skew-symmetric matrix 对称和斜对称阵  转置和本身相等或者相反
-		- Invertible matrix and its inverse
-		- Definite matrix
-			- Positive definite matrix
-			- negative-definite
-			- Indefinite matrix 非定
+		- Invertible matrix and its inverse		可逆的和逆矩阵
+		- Definite matrix	定矩阵  
+			- Positive definite matrix  对角线为正
+			- negative-definite		对角线为负
+			- Indefinite matrix 非定	含有非正定 非负定的概念
 		- Orthogonal matrix 正交矩阵
