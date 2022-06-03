@@ -1,7 +1,7 @@
 ﻿
 - # write at the beginning
    - brief about me
-     - Chinese|math|c++|geometric modeling|Arsenal
+     - Chinese|math|c++|geometric modeling|Arsenal|CAD
    - contact
      - gaojiabit@gmail.com
      - wechat:hinice1886
