@@ -5,3 +5,5 @@
 # Visual Studio 2015 cache/options directory
 .vs/
 test/
+
+#test  git config --global http.sslVerify "false"  git config --global https.sslVerify "false"
